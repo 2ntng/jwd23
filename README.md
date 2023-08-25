@@ -1,5 +1,6 @@
-# Serkom Praktik
+# Junior Web Developer 2023
 
+## Grand Obelisk
 Sebuah sistem pepesanan kamar hotel.
 
 ## Teknologi
